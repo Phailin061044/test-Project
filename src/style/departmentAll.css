@@ -1,0 +1,46 @@
+
+.departmentd{
+    align-items: center;
+    text-align: center;
+    padding: 30px;
+    align-items: center;
+
+    
+  }
+  
+.fa  {
+    width: 110px;
+    align-items: center;}
+.text-1{
+    margin-top: 80px;
+    text-align: center;
+   
+}
+.text-2{
+
+   margin-top: 120px;
+   text-align: center;
+}
+.text-3{
+    margin-top: 50px;
+    text-align: center;
+ }
+ .text-4{
+    margin-top: 50px;
+    text-align: center;
+ }
+ .fafa-heartbeat{
+    width: 100px;
+    margin-top:10px;
+    align-items: center;
+    
+ }
+.card{
+   
+    border-radius:80px;
+   color: #000;
+    align-items: center;
+}
+
+
+

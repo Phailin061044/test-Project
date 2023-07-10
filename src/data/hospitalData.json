@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "hospital_name": "โรงพยาบาลสมเด็จพระสังฆราช องค์ที่ 17",
+      "hospital_logo": "https://rsathai.org/wp-content/uploads/2018/09/download-10-1.jpg",
+      "hospital_phone_number": 200000000,
+      "hospital_No": 88,
+      "hospital_Moo": 12,
+      "hospital_subdistrict": "เนินพระปรางค์",
+      "hospital_district": "สองพี่น้อง",
+      "hospital_province": "สุพรรณบุรี",
+      "hospital_zipcode": 72110,
+      "hospital_logitude": 100.594009,
+      "hospital_latitude": 14.398618
+      
+    }
+  ]

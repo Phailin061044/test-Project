@@ -1,0 +1,25 @@
+.col{
+  display:flex;
+  font-size: 15px;
+  gap:10px;
+  padding-top: 40px;
+  margin-bottom: 20px;
+  margin-left: 60px;
+  margin-right: 100px;
+  flex-direction:column;
+  text-align: center;
+  align-items: center;
+  justify-content: space-between;
+  
+
+}
+
+.fas{
+  width: 110px;
+ text-align: center;
+  align-items: center;
+}
+a{
+  font-size: larger;
+  white-space:nowrap;
+}

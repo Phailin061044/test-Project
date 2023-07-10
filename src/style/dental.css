@@ -1,0 +1,55 @@
+
+.departmentname {
+  justify-content: center;
+  display: flex;
+  /* font-weight: bolder;
+  font-size: 45px;
+  
+   */
+  justify-content: center;
+}
+
+.doctorindepartment {}
+
+.centerdoctor {
+  justify-content: center;
+  display: flex;
+  font-size: 20px;  
+}
+
+.doctor-in-depart-card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.card-doctor {
+  width: 400px;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 10px;
+  margin-bottom: 20px;
+  color: rgb(31, 131, 144);
+  font-size: 24px;
+  background: aliceblue;
+}
+
+.doc-img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.depart-detail-title {
+  color: darkblue;
+  font-size: 30px;
+  font: bold;
+  
+}
+
+.depart-detail {
+  justify-content: flex-start;
+  white-space: normal;
+}

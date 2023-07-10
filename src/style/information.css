@@ -1,0 +1,44 @@
+
+.container11 {
+    position: absolute;
+    top: 700px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background:#ffffff ;
+    padding: 20px;
+    border-radius: 10px;
+    
+  
+    align-items: center;
+    
+  }
+  .btn1{
+    
+    margin-left: 800px;
+    width: 100px;
+}
+
+.btn2{
+    
+    margin-left: 800px;
+    width: 100px;
+}
+
+
+
+.img-ht{
+    margin-top: 20px;
+    margin-left: 250px;
+    margin-right: 600px;
+    justify-content: center;
+    margin-bottom: 30px;
+    width: 500px;
+}
+
+.container-info{
+    display: contents;
+}
+
+.form-group-h{
+    margin-left: 350px;
+}
